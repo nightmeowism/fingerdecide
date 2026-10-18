@@ -224,3 +224,4 @@ __marimo__/
 data/
 uploads/
 *.db
+try_*.py
