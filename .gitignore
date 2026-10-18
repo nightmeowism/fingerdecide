@@ -221,6 +221,6 @@ __marimo__/
 
 
 #added by night
-data/
+data
 uploads/
 *.db
